@@ -1,4 +1,11 @@
 ### Hi there 👋
+⠀
+[![Blog Badge](https://img.shields.io/badge/Portfólio-iprih.github.io-purple)](https://iprih.github.io)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC6ZNzavS3_OTGhO5RWK35Zg)](https://www.youtube.com/channel/UC6ZNzavS3_OTGhO5RWK35Zg)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iprih_)](https://twitter.com/iprih_)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silva-priscila/)](https://www.linkedin.com/in/silva-priscila/)
+
+![..](https://thumbs.gfycat.com/HalfDiligentConch-max-1mb.gif)⠀⠀
 
 <!--
 **iprih/iprih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
