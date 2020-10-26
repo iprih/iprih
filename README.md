@@ -9,7 +9,9 @@
 
 ⠀⠀⠀⠀⠀![..](https://thumbs.gfycat.com/HalfDiligentConch-max-1mb.gif)⠀⠀
 
-[![iprih github stats](https://github-readme-stats.vercel.app/api?username=iprih)](https://github.com/iprih)
+[![iprih github stats](https://github-readme-stats.vercel.app/api?username=iprih)](https://github.com/iprih)<p>
+⠀⠀⠀⠀⠀[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iprih)](https://github.com/iprih)
+
 
 <!--
 **iprih/iprih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
