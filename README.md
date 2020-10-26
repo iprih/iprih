@@ -9,8 +9,7 @@
 
 ⠀⠀⠀⠀⠀![..](https://thumbs.gfycat.com/HalfDiligentConch-max-1mb.gif)⠀⠀
 
-[![iprih github stats](https://github-readme-stats.vercel.app/api?username=iprih)](https://github.com/iprih)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iprih&layout=compact)](https://github.com/iprih)
+[![iprih github stats](https://github-readme-stats.vercel.app/api?username=iprih)](https://github.com/iprih)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iprih&layout=compact)](https://github.com/iprih)
 
 
 <!--
